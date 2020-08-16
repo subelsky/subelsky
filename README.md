@@ -1,6 +1,6 @@
-# My Values
+<img align="left" width="93" height="83" src="ruby.png?raw=true" alt='A beautiful, shining, red cut ruby stone'>
 
-<img align="left" width="288" height="250" src="ruby.png?raw=true" alt='A beautiful, shining, red cut ruby stone'>
+# My Values
 
 I approach programming as a craft, dedicated to creating durable, long-lasting, useful code. As a leader, I build diverse, creative teams that produce great software. I'm [fast and good](https://avdi.codes/fast-and-good/).
 
