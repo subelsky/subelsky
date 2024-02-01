@@ -1,11 +1,14 @@
-# My Values
+# Bio
 
-<img align="right" width="93" height="83" src="ruby.png?raw=true" alt='A beautiful, shining, red cut ruby stone'>
+I'm a software architect and entrepreneur with 17+ years of experience crafting innovative, resilient software for startups and established companies. In 2007, I co-founded OtherInbox, a B2C startup acquired by ReturnPath in 2012. In 2012, I co-founded STAQ, a data fusion company acquired by Operative in 2021.
 
-I approach programming as a craft, dedicated to creating durable, long-lasting, useful code. As a leader, I build diverse, creative teams that produce great software. I'm [fast and good](https://avdi.codes/fast-and-good/).
+My projects and open source contributions include:
 
-I was very inspired by an early, pivotal encounter with the Ruby programming language, which introduced me to an open source, free culture ethos and community that shaped who I am today. [Here's audio](http://assets.stoopstorytelling.com.s3.amazonaws.com/audio/production/2016-12-02/SSBMA111816MikeSubelsky/SSBMA111816MikeSubelsky.mp3) of a 10 minute talk I gave at the [Stoop Storytelling Series](https://www.stoopstorytelling.com/event/special-event-making-their-mark/) in 2016 explaining how Ruby and Ruby-on-Rails work affected my professional life.
-
+* [CrimeGraph](https://www.subelsky.com/crimegraph/): Graph neural network for forecasting the risk of violent crime
+* [Roundware Web Framework](https://github.com/roundware/roundware-web-framework): JavaScript SDK for the [Roundware](https://roundware.org/) location-based contributory audio platform
+* [Coyote](https://github.com/coyote-team/coyote): Image annotation app for a more inclusive web
+* [Dependency Injection, Minimal](https://github.com/subelsky/dim): Ruby dependency injection framework and tribute to Jim Weirich.
+  
 # Mentoring
 
 My primary act of service is mentoring new and aspiring computer programmers. Please feel free to email me at mike@subelsky.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/subelsky/).
