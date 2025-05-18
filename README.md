@@ -1,6 +1,6 @@
 # Bio
 
-I'm a software architect and entrepreneur with 18+ years of experience crafting innovative, resilient software for startups and established companies. In 2007, I co-founded [OtherInbox](https://www.quora.com/What-is-the-story-behind-OtherInbox), a B2C startup acquired by ReturnPath in 2012. In 2012, I co-founded [STAQ](https://www.staq.com/), a data fusion company acquired by Operative in 2021.
+I'm a software architect and entrepreneur with 18+ years of experience crafting innovative, resilient software. In 2007, I co-founded [OtherInbox](https://www.quora.com/What-is-the-story-behind-OtherInbox), a B2C startup acquired by ReturnPath in 2012. In 2012, I co-founded [STAQ](https://www.staq.com/), a data fusion company acquired by Operative in 2021.
 
 My projects and open source contributions include:
 
