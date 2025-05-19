@@ -5,6 +5,7 @@ I'm a software architect and entrepreneur with 18+ years of experience crafting 
 My projects and open source contributions include:
 
 * [AuraJournal](https://www.aurajournal.com/): Mindful meal tracking made simple using MLLM
+* [BundlerMCP](https://github.com/subelsky/bundler_mcp): Enables agents to inquire about a project's Ruby dependencies
 * [CrimeGraph](https://www.subelsky.com/crimegraph/): Graph neural network for forecasting the risk of violent crime
 * [Roundware Web Framework](https://github.com/roundware/roundware-web-framework): JavaScript SDK for the [Roundware](https://roundware.org/) location-based contributory audio platform
 * [Coyote](https://github.com/coyote-team/coyote): Image annotation app for a more inclusive web
